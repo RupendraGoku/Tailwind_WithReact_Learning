@@ -3,7 +3,7 @@ import Header from '../Components/Header';
 import Details from '../Components/Details';
 import CardInfo from '../Components/CardInfo';
 import Products from '../Components/Products';
-import ProductsInfo from '../Components/ProductsInfo';
+import ProductsInfo from '../Components/ProductsInfo.jsx';
 
 const Home = () => {
   return (
